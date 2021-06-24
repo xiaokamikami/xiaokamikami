@@ -5,7 +5,7 @@
 
 💬 QQ 1317379456
 
-👯 I’m looking to collaborate on flushbonading
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaokamikami&theme=tokyonight&show_icons=true)
 
