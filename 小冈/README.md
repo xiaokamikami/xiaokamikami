@@ -10,8 +10,10 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=xiaokamikami&theme=tokyonight&show_icons=true&count_private=true )](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaokamikami)](https://github.com/anuraghazra/github-readme-stats)
 
+<a href="https://github.com/wangsrGit119">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaokamikami&layout=compact" />
+</a>
 
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=xiaokamikami&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
