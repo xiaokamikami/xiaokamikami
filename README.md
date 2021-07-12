@@ -10,7 +10,7 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=xiaokamikami&theme=tokyonight&show_icons=true&count_private=true )](https://github.com/anuraghazra/github-readme-stats)
 
 
-<a href="https://github.com/wangsrGit119">
+<a href="https://github.com/xiaokamikami">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaokamikami&layout=compact" />
 </a>
 
