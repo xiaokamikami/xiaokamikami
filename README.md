@@ -6,9 +6,7 @@
 
 人太菜，很多东西不好意思放出来~
 
-![描述](https://komarev.com/ghpvc/?username=xiaokamikami&color=green)
-
-[![](https://img.shields.io/badge/dynamic/json?color=000000&label=CSDN&query=%24.data.totalSubs&suffix=%20followers&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DWonz5130)](https://blog.csdn.net/qq_39536828?spm=1001.2101.3001.5343)
+![描述](https://komarev.com/ghpvc/?username=xiaokamikami&color=green) [![](https://img.shields.io/badge/dynamic/json?color=000000&label=CSDN&query=%24.data.totalSubs&suffix=%20followers&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DWonz5130)](https://blog.csdn.net/qq_39536828?spm=1001.2101.3001.5343)
 [CSDN博客](https://blog.csdn.net/qq_39536828)
 
 
