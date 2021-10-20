@@ -11,12 +11,12 @@
 个人博客:[CSDN博客](https://blog.csdn.net/qq_39536828)
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=xiaokamikami&theme=tokyonight&show_icons=true&count_private=true )
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=xiaokamikami&theme=tokyonight&show_icons=true&count_private=true )
 
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaokamikami)](https://github.com/xiaokamikami/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaokamikami)](https://github.com/xiaokamikami/github-readme-stats)
 
 
 
