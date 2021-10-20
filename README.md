@@ -14,10 +14,10 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=xiaokamikami&theme=tokyonight&show_icons=true&count_private=true )](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaokamikami)](https://github.com/xiaokamikami/github-readme-stats))
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaokamikami)](https://github.com/xiaokamikami/github-readme-stats)
 
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=xiaokamikami&count_private=true)](https://github.com/xiaokamikami/github-readme-stats)
+
 
 
 
