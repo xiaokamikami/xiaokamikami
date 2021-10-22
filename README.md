@@ -14,10 +14,9 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=xiaokamikami&theme=tokyonight&show_icons=true&count_private=true )
 
 
+![Kami's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=xiaokamikami&show_icons=true&count_private=true&theme=gotham)
 
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=xiaokamikami)](https://github.com/xiaokamikami)
 
 
 
