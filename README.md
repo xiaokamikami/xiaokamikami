@@ -1,3 +1,9 @@
+![Metrics](https://metrics.lecoq.io/xiaokamikami?template=classic&languages=1&isocalendar=1&achievements=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FHong_Kong)
+
+
+
+<!--
+**xiaokamikami/xiaokamikami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 🎂 2002.08.05
 
 💻 Python | C | C++
@@ -12,16 +18,6 @@
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=xiaokamikami&theme=tokyonight&show_icons=true&count_private=true )
-
-
-
-
-![Metrics](https://metrics.lecoq.io/xiaokamikami?template=classic&languages=1&isocalendar=1&achievements=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FHong_Kong)
-
-
-
-<!--
-**xiaokamikami/xiaokamikami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
