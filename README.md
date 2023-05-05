@@ -1,7 +1,4 @@
-![Metrics](https://metrics.lecoq.io/xiaokamikami?template=classic&isocalendar=1&introduction=1&notable=1&achievements=1&isocalendar.duration=half-year&introduction.title=true&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable.repositories=false&config.timezone=Asia%2FHong_Kong)
 
-
-<!--
 **xiaokamikami/xiaokamikami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 🎂 2002.08.05
 
