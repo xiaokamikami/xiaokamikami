@@ -10,8 +10,6 @@
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=xiaokamikami&theme=tokyonight&show_icons=true&count_private=true )
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
