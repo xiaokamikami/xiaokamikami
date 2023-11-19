@@ -1,8 +1,5 @@
-
-**xiaokamikami/xiaokamikami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 🎂 2002.08.05
-
-💻 Python | C | C++
+💻 Python | C | C++ | Verilog
 
 💬 QQ 1317379456
 
@@ -13,8 +10,8 @@
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=xiaokamikami&theme=tokyonight&show_icons=true&count_private=true )
-
-Here are some ideas to get you started:
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
