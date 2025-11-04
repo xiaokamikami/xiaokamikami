@@ -35,17 +35,6 @@ I'm an embedded engineer and IC design enthusiast, specializing in **FPGA develo
 - **Embedded**: ARM Cortex, RISC-V
 
 ## 🔭 Current Focus
-
-```verilog
-always @(posedge clk) begin
-    if (learning_mode) begin
-        skills <= skills + FPGA_DESIGN;
-        knowledge <= knowledge + IC_VERIFICATION;
-        projects <= projects + INNOVATION;
-    end
-end
-```
-
 - 🔬 Deep diving into **advanced FPGA architectures**
 - 🧠 Exploring **AI/ML acceleration** on FPGA
 - 🚀 Building **high-performance computing** solutions
