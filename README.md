@@ -14,73 +14,64 @@
 
 ## 🚀 About Me
 
-🎂 Born in **2002.08.05** | 💡 Passionate about **Digital Circuit Design**
+🎂 Born in **2002.08.05** | 💡 Passionate about **Digital/HW System Design**
 
-> *"From embedded systems to silicon—building the hardware of tomorrow"*
+From embedded microcontrollers to silicon, I specialize in:
+- Embedded software & hardware co-design
+- FPGA/IC digital design与验证（多主流平台）
+- 多协议高效IP开发（AXI, SPI, UART, PCIe等）
+- 自动化硬件实现、软硬件接口优化
+- MCU（ARM/RISC-V）生态扩展及驱动开发
 
-I'm an embedded engineer and IC design enthusiast, specializing in **FPGA development** and **digital chip design**. Currently exploring the fascinating world of hardware acceleration and custom silicon.
+> *"Building reliable hardware accelerating the future."*
 
 ## 💻 Tech Stack
 
 ### Languages & HDL
 ![Verilog](https://img.shields.io/badge/Verilog-3776AB?style=for-the-badge&logo=v&logoColor=white)
+![SystemVerilog](https://img.shields.io/badge/SystemVerilog-black?style=for-the-badge)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### FPGA & Tools
-- **FPGA Platforms**: Xilinx (Vivado, Vitis), Altera/Intel (Quartus)
-- **Simulation**: ModelSim, Vivado Simulator, Verilator
-- **Design**: SystemVerilog, Verilog HDL
-- **Protocols**: AXI, UART, SPI, I2C, PCIe
-- **Embedded**: ARM Cortex, RISC-V
+- **FPGA/ASIC**: Xilinx (Vivado, Vitis), Intel/Altera (Quartus)
+- **Eco**: ARM Cortex, RISC-V, ESP32
+- **Verification**: ModelSim, Vivado Simulator, Verilator
+- **Protocols**: AXI, UART, SPI, I2C, PCIe, USB
+- **设计逻辑**: 高性能存算分离/流水线结构、自定义加速核
 
 ## 🔭 Current Focus
-- 🔬 Deep diving into **advanced FPGA architectures**
-- 🧠 Exploring **AI/ML acceleration** on FPGA
-- 🚀 Building **high-performance computing** solutions
-- 📡 Developing **communication protocol IPs**
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xiaokamikami&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaokamikami&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
+- 更高效的片上系统（SoC）架构优化
+- FPGA+AI/ML实时推理与加速器设计
+- 多平台硬件协同及驱动适配
+- 工业/通信自动化方案端到端开发
 
 ## 🎯 Areas of Expertise
-
-| Domain                  | Technologies                                  |
-|-------------------------|-----------------------------------------------|
-| **FPGA Design**         | RTL Design, Timing Closure, Resource Optimization |
-| **IC Verification**     | Testbench Development, Coverage Analysis      |
-| **Embedded Systems**    | Microcontroller Programming, RTOS             |
-| **Digital Signal Processing** | FIR/IIR Filters, FFT Implementation       |
-| **Hardware Acceleration**     | Custom Computing Architecture             |
+| Domain           | Technologies                                   |
+|------------------|------------------------------------------------|
+| FPGA/IC设计      | RTL结构/时序收敛/资源优化                     |
+| 嵌入式系统       | MCU驱动/FreeRTOS/低功耗方案                   |
+| 协议开发         | AXI/IP核/自定义总线/PCIe/USB                  |
+| DSP/高速信号     | 滤波/FFT/IIR等自研信号算法                    |
+| 自动化工具链     | 脚本/EDA插件/工程模板自动生成                 |
 
 ## 🌱 Learning Journey
 
-- [ ] Advanced Verification Methodologies (UVM)
-- [ ] High-Level Synthesis (HLS)
-- [ ] ASIC Design Flow
-- [ ] Formal Verification
-- [ ] Computer Architecture Optimization
+- UVM/高级验证方法学
+- ASIC流程&Formal Verification
+- HLS/硬件软开发一体化
+- 计算机体系结构优化
 
-## 💡 Project Highlights
+## 📦 Featured Repositories
 
 ```
-📦 Featured Repositories
-│
 ├── 🔧 FPGA IP Cores
-│   └── Custom designed and verified IP blocks
-│
+│     └── 高性能/定制验证IP核
 ├── 🎮 Embedded Projects
-│   └── Microcontroller-based applications
-│
-└── 🧪 Design Examples
-    └── Learning projects and experiments
+│     └── 多平台应用/驱动开发
+├── 🧠 AI/ML FPGA Acceleration
+│     └── 实时推理/低功耗计算
 ```
 
 ## 📫 Let's Connect
@@ -100,6 +91,7 @@ I'm an embedded engineer and IC design enthusiast, specializing in **FPGA develo
 
 ![Visitor Count](https://profile-counter.glitch.me/xiaokamikami/count.svg)
 
-⭐️ From [xiaokamikami](https://github.com/xiaokamikami) | Building the future, one clock cycle at a time ⚡
+⭐️ From [xiaokamikami](https://github.com/xiaokamikami)
+| Building the future, one clock cycle at a time ⚡
 
 </div>
