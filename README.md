@@ -4,6 +4,7 @@
 
 ### 🔌 FPGA & IC Design Engineer | 嵌入式工程师
 
+[![AgentBoard](https://agentboard.cc/api/badge?handle=kamimiao&metric=tokens&style=dark&period=30d)](https://agentboard.cc/@kamimiao)
 [![GitHub followers](https://img.shields.io/github/followers/xiaokamikami?style=social)](https://github.com/xiaokamikami)
 [![QQ](https://img.shields.io/badge/QQ-1317379456-blue?style=flat&logo=tencentqq)](tencent://message/?uin=1317379456)
 
@@ -45,20 +46,19 @@ I'm an embedded engineer and IC design enthusiast, specializing in **FPGA develo
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xiaokamikami&show_icons=true&theme=tokyonight&hide_border=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaokamikami&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
 ## 🎯 Areas of Expertise
 
-| Domain | Technologies |
-|--------|-------------|
-| **FPGA Design** | RTL Design, Timing Closure, Resource Optimization |
-| **IC Verification** | Testbench Development, Coverage Analysis |
-| **Embedded Systems** | Microcontroller Programming, RTOS |
-| **Digital Signal Processing** | FIR/IIR Filters, FFT Implementation |
-| **Hardware Acceleration** | Custom Computing Architecture |
+| Domain                  | Technologies                                  |
+|-------------------------|-----------------------------------------------|
+| **FPGA Design**         | RTL Design, Timing Closure, Resource Optimization |
+| **IC Verification**     | Testbench Development, Coverage Analysis      |
+| **Embedded Systems**    | Microcontroller Programming, RTOS             |
+| **Digital Signal Processing** | FIR/IIR Filters, FFT Implementation       |
+| **Hardware Acceleration**     | Custom Computing Architecture             |
 
 ## 🌱 Learning Journey
 
