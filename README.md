@@ -4,7 +4,7 @@
 
 ### 🔌 FPGA & IC Design Engineer | 嵌入式工程师
 
-[![AgentBoard](https://agentboard.cc/api/badge?handle=kamimiao&metric=tokens&style=dark&period=30d)](https://agentboard.cc/@kamimiao)
+[![AgentBoard](https://agentboard.cc/api/badge?handle=ai_eda&metric=tokens&style=dark)](https://agentboard.cc/@ai_eda)
 [![GitHub followers](https://img.shields.io/github/followers/xiaokamikami?style=social)](https://github.com/xiaokamikami)
 [![QQ](https://img.shields.io/badge/QQ-1317379456-blue?style=flat&logo=tencentqq)](tencent://message/?uin=1317379456)
 
