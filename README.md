@@ -6,7 +6,6 @@
 
 [![AgentBoard](https://agentboard.cc/api/badge?handle=ai_eda&metric=tokens&style=dark)](https://agentboard.cc/@ai_eda)
 [![GitHub followers](https://img.shields.io/github/followers/xiaokamikami?style=social)](https://github.com/xiaokamikami)
-[![QQ](https://img.shields.io/badge/QQ-1317379456-blue?style=flat&logo=tencentqq)](tencent://message/?uin=1317379456)
 
 </div>
 
@@ -88,8 +87,6 @@ From embedded microcontrollers to silicon, I specialize in:
 <div align="center">
 
 ### 💬 *"Hardware is hard, but the journey is rewarding"*
-
-![Visitor Count](https://profile-counter.glitch.me/xiaokamikami/count.svg)
 
 ⭐️ From [xiaokamikami](https://github.com/xiaokamikami)
 | Building the future, one clock cycle at a time ⚡
