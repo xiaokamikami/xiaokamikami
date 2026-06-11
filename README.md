@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm xiaokamikami
+# 👋 Hi, I'm kami
 
 ### 🔌 FPGA & IC Design Engineer | 嵌入式工程师
 
